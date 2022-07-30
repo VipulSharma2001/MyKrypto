@@ -1,0 +1,10 @@
+**Database Name: ecommerceapp**
+
+**Developed by Vipul Sharma 19BAI1111**
+
+
+
+**Admin Login Details**
+
+Email:    harryden@gmail.com
+Password: password
